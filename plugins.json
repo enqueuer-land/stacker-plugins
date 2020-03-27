@@ -8,7 +8,7 @@
       "exec",
       "spawn"
     ],
-    "id": "enqueuer-plugin-shell",
+    "version": "0.0.1",
     "name": "enqueuer-plugin-shell",
     "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-shell",
     "website": "https://github.com/enqueuer-land/enqueuer-plugin-shell"
@@ -25,8 +25,7 @@
       "mssql",
       "sqlite"
     ],
-    "license": "MIT",
-    "id": "enqueuer-plugin-anydb",
+    "version": "0.0.1",
     "name": "enqueuer-plugin-anydb",
     "publishers": [
       "anydb"
