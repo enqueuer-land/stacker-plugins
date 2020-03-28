@@ -9,6 +9,9 @@
       "spawn"
     ],
     "version": "0.0.1",
+    "author": "enqueuer-land",
+    "logo": "http://github.com/enqueuer-land.png",
+    "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-plugin-shell/master/README.md",
     "name": "enqueuer-plugin-shell",
     "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-shell",
     "website": "https://github.com/enqueuer-land/enqueuer-plugin-shell"
@@ -30,8 +33,10 @@
     "publishers": [
       "anydb"
     ],
+    "author": "guilhermecorsino",
+    "readme": "https://raw.githubusercontent.com/guilhermecorsino/enqueuer-plugin-anydb/master/README.md",
+    "logo": "http://github.com/guilhermecorsino.png",
     "repositoryUrl": "https://github.com/guilhermecorsino/enqueuer-plugin-anydb",
-    "subscriptions": [],
     "website": "https://github.com/guilhermecorsino/enqueuer-plugin-anydb"
   }
 ]
