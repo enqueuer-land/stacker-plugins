@@ -20,6 +20,34 @@
     "website": "https://github.com/enqueuer-land/enqueuer-plugin-shell"
   },
   {
+    "description": "Stacker plugin to handle sqs (amazon simple queue service) commands",
+    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/sqs.js",
+    "keywords": ["sqs"],
+    "publishers": ["sqs"],
+    "subscriptions": ["sqs"],
+    "version": "0.0.1",
+    "author": "enqueuer-land",
+    "logo": "http://github.com/enqueuer-land.png",
+    "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-plugin-sqs/master/README.md",
+    "name": "enqueuer-plugin-sqs",
+    "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-shell",
+    "website": "https://github.com/enqueuer-land/enqueuer-plugin-shell"
+  },
+  {
+    "description": "Stacker plugin to handle kafka commands",
+    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/kafka.js",
+    "keywords": ["kafka"],
+    "publishers": ["kafka"],
+    "subscriptions": ["kafka"],
+    "version": "0.0.1",
+    "author": "enqueuer-land",
+    "logo": "http://github.com/enqueuer-land.png",
+    "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-plugin-kafka/master/README.md",
+    "name": "enqueuer-plugin-kafka",
+    "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-kafka",
+    "website": "https://github.com/enqueuer-land/enqueuer-plugin-kafka"
+  },
+  {
     "description": "Stacker plugin to handle database manipulations",
     "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/anydb-publisher.js",
     "keywords": [
