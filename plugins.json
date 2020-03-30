@@ -34,10 +34,10 @@
     "version": "0.0.1",
     "author": "enqueuer-land",
     "logo": "http://github.com/enqueuer-land.png",
-    "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-plugin-redis-db/master/README.md",
-    "name": "enqueuer-plugin-redis-db",
-    "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-redis-db",
-    "website": "https://github.com/enqueuer-land/enqueuer-plugin-redis-db"
+    "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-redis-db/master/README.md",
+    "name": "enqueuer-redis-db",
+    "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-redis-db",
+    "website": "https://github.com/enqueuer-land/enqueuer-redis-db"
   },  
   {
     "description": "Stacker plugin to handle sqs (amazon simple queue service) commands",
