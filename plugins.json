@@ -1,7 +1,7 @@
 [
   {
     "description": "Stacker plugin to handle shell commands",
-    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/shell-publisher.js",
+    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/shell.js",
     "keywords": [
       "shell",
       "bash",
@@ -10,7 +10,7 @@
     ],
     "publishers": [
       "exec"
-    ],    
+    ],
     "version": "0.0.1",
     "author": "enqueuer-land",
     "logo": "http://github.com/enqueuer-land.png",
@@ -21,7 +21,7 @@
   },
   {
     "description": "Stacker plugin to handle redis as a databse",
-    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/redisdb-publisher.js",
+    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/redis-db.js",
     "keywords": [
       "redis",
       "key",
@@ -30,7 +30,7 @@
     ],
     "publishers": [
       "redis-db"
-    ],    
+    ],
     "version": "0.0.1",
     "author": "enqueuer-land",
     "logo": "http://github.com/enqueuer-land.png",
@@ -38,10 +38,10 @@
     "name": "enqueuer-redis-db",
     "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-redis-db",
     "website": "https://github.com/enqueuer-land/enqueuer-redis-db"
-  },  
+  },
   {
     "description": "Stacker plugin to handle sqs (amazon simple queue service) commands",
-    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/sqs.js",
+    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/aws-sqs.js",
     "keywords": ["sqs"],
     "publishers": ["sqs"],
     "subscriptions": ["sqs"],
@@ -69,7 +69,7 @@
   },
   {
     "description": "Stacker plugin to handle database manipulations",
-    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/anydb-publisher.js",
+    "javascriptUrl": "https://raw.githubusercontent.com/enqueuer-land/stacker/master/plugins/anydb.js",
     "keywords": [
       "database",
       "db",
