@@ -15,7 +15,7 @@
     "author": "enqueuer-land",
     "logo": "http://github.com/enqueuer-land.png",
     "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-plugin-shell/master/README.md",
-    "name": "enqueuer-plugin-shell",
+    "name": "shell",
     "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-shell",
     "website": "https://github.com/enqueuer-land/enqueuer-plugin-shell"
   },
@@ -35,7 +35,7 @@
     "author": "enqueuer-land",
     "logo": "http://github.com/enqueuer-land.png",
     "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-redis-db/master/README.md",
-    "name": "enqueuer-redis-db",
+    "name": "redis-db",
     "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-redis-db",
     "website": "https://github.com/enqueuer-land/enqueuer-redis-db"
   },
@@ -49,9 +49,9 @@
     "author": "enqueuer-land",
     "logo": "http://github.com/enqueuer-land.png",
     "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-plugin-sqs/master/README.md",
-    "name": "enqueuer-plugin-sqs",
-    "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-shell",
-    "website": "https://github.com/enqueuer-land/enqueuer-plugin-shell"
+    "name": "aws-sqs",
+    "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-sqs",
+    "website": "https://github.com/enqueuer-land/enqueuer-plugin-sqs"
   },
   {
     "description": "Stacker plugin to handle kafka commands",
@@ -63,7 +63,7 @@
     "author": "enqueuer-land",
     "logo": "http://github.com/enqueuer-land.png",
     "readme": "https://raw.githubusercontent.com/enqueuer-land/enqueuer-plugin-kafka/master/README.md",
-    "name": "enqueuer-plugin-kafka",
+    "name": "kafka",
     "repositoryUrl": "https://github.com/enqueuer-land/enqueuer-plugin-kafka",
     "website": "https://github.com/enqueuer-land/enqueuer-plugin-kafka"
   },
@@ -80,7 +80,7 @@
       "sqlite"
     ],
     "version": "0.0.1",
-    "name": "enqueuer-plugin-anydb",
+    "name": "anydb",
     "publishers": [
       "anydb"
     ],
